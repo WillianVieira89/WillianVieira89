@@ -2,8 +2,8 @@
 
  ## I'm Willian Leonardo Vieira!
 
-:computer: I'm a web and front-end development student!\
-:house_with_garden: I'm from São Paulo Brazil.\
+:computer:I'm a front-end web developer\
+:house_with_garden: I'm from São Paulo, Brazil.\
 :books: Currently, I'm learning everything related to front-end and web development\
 :outbox_tray: 2021 Goals: Study, find a new job and contribute to the community 
  
