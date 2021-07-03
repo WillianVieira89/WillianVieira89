@@ -2,9 +2,9 @@
 
  ## I'm Willian Leonardo Vieira!
 
-:computer:Technologist in Systems Analysis and Development
-:computer:I'm a front-end web developer.\
-:house_with_garden: I'm from São Paulo, Brazil.\
+:computer:Technologist in Systems Analysis and Development\
+:computer:I'm a front-end web developer\
+:house_with_garden: I'm from São Paulo, Brazil\
 :books: I am currently studying web and front-end development, HTML/CSS/Javascript\
 :outbox_tray: 2021 Goals: Study, find a new job and contribute to the community.
  
