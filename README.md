@@ -3,10 +3,10 @@
  ## I'm Willian Leonardo Vieira!
 
 :computer:Technologist in Systems Analysis and Development\
-:computer:I'm a front-end web developer\
+:computer:I'm a Data Science Student\
 :house_with_garden: I'm from São Paulo, Brazil\
 :books: I am currently Studying Python with a focus on Data Analysis
-:outbox_tray: 2021 Goals: Study, find a new job and contribute to the community.
+:outbox_tray: 2023 Goals: Study, find a new job and contribute to the community.
  
 ## About me
 
