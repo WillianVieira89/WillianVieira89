@@ -2,10 +2,10 @@
 
  ## I'm Willian Leonardo Vieira!
 
-:computer:Technologist in Systems Analysis and Development\
-:computer:Bachelor's Degree in Data Science from Univesp
+:computer:Technologist in Systems Analysis and Development at Faculdade Impacta\
+:computer:Bachelor's Degree in Data Science from Univesp\
 :house_with_garden: I'm from São Paulo, Brazil\
-:books: Python Programming with a focus on Data Analysis
+:books: Python Programming with a focus on Data Analysis\
 :outbox_tray: 2023 Goals: Study, find a new job and contribute to the community.
  
 ## About me
