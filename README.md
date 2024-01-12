@@ -18,7 +18,6 @@
 ## Languages and Tools
 
 ![WillianVieira89 GitHub stats](https://github-readme-stats.vercel.app/api?username=WillianVieira89&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianVieira89&layout=compact)](https://github.com/WillianVieira89/github-readme-stats)
 
 <code> <img height= "25" src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
 <code> <img height= "25" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
