@@ -6,7 +6,7 @@
 :computer:Technologist in Systems Analysis and Development at Faculdade Impacta\
 :house_with_garden: I'm from São Paulo, Brazil\
 :books: Python Programming with a focus on Data Analysis\
-:outbox_tray: 2024 Goals: Study, find a new job and contribute to the community.
+:outbox_tray: 2025 Goals: Study, find a new job and contribute to the community.
  
 ## About me
 
